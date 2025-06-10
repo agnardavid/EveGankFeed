@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36202.13 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EveGankFeed", "EveGankFeed\EveGankFeed.csproj", "{A114BE53-F547-4276-849C-77E132F77340}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A114BE53-F547-4276-849C-77E132F77340}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A114BE53-F547-4276-849C-77E132F77340}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A114BE53-F547-4276-849C-77E132F77340}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A114BE53-F547-4276-849C-77E132F77340}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3ED08B08-D96F-4EAF-9802-50F50EC2DBB5}
+	EndGlobalSection
+EndGlobal
